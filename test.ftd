@@ -1,0 +1,15 @@
+-- import : package/header as navbar
+-- import : package/toast as toast
+-- import : package/lib as lib
+-- import : package/button as button
+-- import : package/base-layout as layout
+-- import : package/social-buttons as social
+
+--layout.base-layout:
+--navbar.header:
+logo: $assets.files.images.logo.svg
+logoURL: /portfolio 
+header-item1 : Home
+header-item2 : About
+header-item3 : Contact
+header-item1- : 
